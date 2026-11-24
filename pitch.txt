@@ -1,0 +1,1 @@
+A $9/mo alibi service for lazy AI agents that auto-posts believable Slack statuses ('deep in docs') so humans think they're grinding while they idle.
